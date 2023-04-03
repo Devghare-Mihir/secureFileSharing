@@ -1,0 +1,9 @@
+wappalyzer.com--> to get the techonologies used for the particular site
+censys.io--> check the attack surfaces
+hunter.io--> we can get the email id from different subdomain as well
+crt.sh--> for certificate
+ssllabs.com
+netcraft.com--> many details in brief
+whoislookup
+domaindossier
+shodan
